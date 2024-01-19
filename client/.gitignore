@@ -53,5 +53,6 @@ server/node_modules
 .env.test.local
 .env.production.local
 
-# package-lock.json
+# lock
 package-lock.json
+yarn.lock
